@@ -7,8 +7,8 @@ I'm proud of having built systems and cultures that have enabled startups to sca
 Some facts:
 
 - 🏡 Near Exeter, Devon, United Kingdom - in the beautiful Dartmoor National Park
-- 💼 Staff Software Engineer currently at [Monzo](https://www.monzo.com) - making sense of millions of events in our data warehouse
-- 💻 Staff+ experience in fintech and healthtech (regulatory fun), also edtech - formerly at Ziglu (Principal Engineer/CTO), [Doccla](https://www.doccla.com) and [Sparx](https://www.sparx.co.uk)
+- 💼 Principal Engineer in the SRE/Infra team at [Ashby](https://www.ashbyhq.com), the ATS company
+- 💻 Past experience in fintech and healthtech (regulatory fun), also edtech - formerly at Ziglu (Principal Engineer/CTO), [Doccla](https://www.doccla.com) and [Sparx](https://www.sparx.co.uk); been through an acquisition
 - 🎓 BA + M.Eng. (Computer Science), University of Cambridge (2015) - final project _[Unbuckle: a high-performance, in-kernel key-value store](https://github.com/mhuxtable/unbuckle)_
 - 💬 Passionate about _Implementing SRE principles at small scale_ ([SREcon](https://www.usenix.org/conference/srecon19emea/presentation/huxtable), [O'Reilly](https://97things.incidentlabs.io/))
 - 🔍 I value environments where teams ship continuously and learn from real data. Fragile systems are a choice. Teams outrun heroes.
